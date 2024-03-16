@@ -20,15 +20,23 @@ The dataset used in this project is sourced from Kaggle, titled "Sentiment Analy
 - Model Evaluation: Evaluate the model's performance using accuracy score and classification report on the testing data.
 - Model Saving: Save the trained model and vectorizer for future use.
 - User Interface: Create a simple user interface using Gradio for testing the model's predictions interactively.
+
 # Challenges and Learnings
 - Data Quality: Ensuring the quality and relevance of the dataset for sentiment analysis.
 - Feature Engineering: Deciding on the appropriate features and preprocessing techniques.
 - Model Selection: Choosing the suitable algorithm and fine-tuning parameters.
 - Deployment: Integrating the model into a user-friendly interface for easy access.
+
 # Future Improvements
 - Data Augmentation: Incorporating more diverse and balanced data for better generalization.
 - Advanced Models: Experimenting with deep learning architectures for improved performance.
 - Hyperparameter Tuning: Fine-tuning model parameters for enhanced accuracy.
 - Real-time Monitoring: Implementing feedback mechanisms for continuous model improvement.
+
 # Demo
 A demo of the model in action can be accessed here.
+
+# Result
+<img width="718" alt="image" src="https://github.com/Rifqiakmals12/Final-Project-Sentiment-Analysis-Application/assets/72428679/e52125d3-1cfd-4520-96e9-b9e829e7036b">
+<img width="718" alt="image" src="https://github.com/Rifqiakmals12/Final-Project-Sentiment-Analysis-Application/assets/72428679/fc43a5fd-31f6-400e-9fca-5bc88fe8d476">
+
