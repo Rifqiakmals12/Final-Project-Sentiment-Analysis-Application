@@ -28,7 +28,6 @@ The dataset used in this project is sourced from Kaggle, titled "Sentiment Analy
 - Deployment: Integrating the model into a user-friendly interface for easy access.
 
 # Future Improvements
-- Data Augmentation: Incorporating more diverse and balanced data for better generalization.
 - Advanced Models: Experimenting with deep learning architectures for improved performance.
 - Hyperparameter Tuning: Fine-tuning model parameters for enhanced accuracy.
 - Real-time Monitoring: Implementing feedback mechanisms for continuous model improvement.
