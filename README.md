@@ -33,7 +33,8 @@ The dataset used in this project is sourced from Kaggle, titled "Sentiment Analy
 - Real-time Monitoring: Implementing feedback mechanisms for continuous model improvement.
 
 # Demo
-A demo of the model in action can be accessed here.
+A demo of the model in action can be accessed [here](https://d304a714c33e1e9ad3.gradio.live).
+
 
 # Result
 <img width="718" alt="image" src="https://github.com/Rifqiakmals12/Final-Project-Sentiment-Analysis-Application/assets/72428679/e52125d3-1cfd-4520-96e9-b9e829e7036b">
